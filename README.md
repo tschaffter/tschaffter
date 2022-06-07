@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Thomas!
 
-<!--
-**tschaffter/tschaffter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Solutions Architect at [Sage Bionetworks](https://sagebionetworks.org)
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tschaffter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tschaffter/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.schaffter@protonmail.com)
+<!-- [![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-8242-9462) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/tschaffter?tab=repositories">
+  <img height="auto" align="left" alt="tschaffter's github stats"
+        src="https://github-readme-stats.vercel.app/api?username=tschaffter&show_icons=true&theme=algolia&count_private=true" />
+  <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+</a>
