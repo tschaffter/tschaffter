@@ -1,6 +1,6 @@
 # Hello, I'm Thomas!
 
-Project Lead | Research Senior Software Engineer | PhD @ [Sage Bionetworks](https://sagebionetworks.org)
+Project Lead | Senior Research Software Engineer | PhD @ [Sage Bionetworks](https://sagebionetworks.org)
 
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tschaffter)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tschaffter/)
