@@ -7,8 +7,10 @@
 I build platforms and frameworks that accelerate delivery, improve reliability, and increase impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tschaffter/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.schaffter@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.schaffter@proton.me)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C88AkzIAAAAJ&hl=en&oi=ao)
+
+Email: `thomas.schaffter@proton.me`
 
 </div>
 
@@ -25,7 +27,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 #### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,r,cpp" />
 </p>
 
 #### Frameworks & Libraries
