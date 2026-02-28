@@ -10,8 +10,6 @@ I build platforms and frameworks that accelerate delivery, improve reliability, 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.schaffter@proton.me)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C88AkzIAAAAJ&hl=en&oi=ao)
 
-Email: `thomas.schaffter@proton.me`
-
 </div>
 
 ---
@@ -33,19 +31,24 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 #### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,spring,nodejs,express,graphql,hibernate" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,nodejs,express,fastapi,graphql,hibernate" />
 </p>
 
 #### Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,jenkins,linux,nginx,gradle,maven,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,githubactions,linux,nginx,gradle,maven,git" />
+  <br>
+  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  
 </p>
 
 #### Data & Messaging
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,kafka,elasticsearch,mongodb" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 </p>
 
 ## How I Lead
