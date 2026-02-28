@@ -25,14 +25,14 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 #### Languages
 
 <p>
-  <a><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
-  <a><img src="https://skillicons.dev/icons?i=py" title="Python" /></a>
-  <a><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /></a>
-  <a><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
-  <a><img src="https://skillicons.dev/icons?i=html" title="HTML" /></a>
-  <a><img src="https://skillicons.dev/icons?i=css" title="CSS" /></a>
-  <a><img src="https://skillicons.dev/icons?i=r" title="R" /></a>
-  <a><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" title="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=r" title="R" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
 </p>
 
 #### Frameworks & Libraries
