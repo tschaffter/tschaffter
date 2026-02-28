@@ -45,6 +45,9 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" title="Gradio" /></a>
 </p>
 
 #### Infrastructure & DevOps
@@ -71,6 +74,8 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" title="Nx" /></a>
   <a href="#"><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" title="uv" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" title="Prettier" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" title="Ruff" /></a>
 </p>
 
 #### Data & Messaging
