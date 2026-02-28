@@ -51,6 +51,15 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 </p>
 
+#### AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+</p>
+
 ## How I Lead
 
 &nbsp;&nbsp;**Cross-Organization Collaboration** &mdash; Led initiatives spanning IBM, NIH, Roche/Genentech, Mayo Clinic, and academic institutions, coordinating 70+ contributors across organizations
