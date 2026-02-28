@@ -55,7 +55,6 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=maven" title="Maven" /></a>
@@ -73,6 +72,14 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
+</p>
+
+#### Operating Systems
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=apple" title="macOS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=windows" title="Windows" /></a>
 </p>
 
 #### AI Tools
