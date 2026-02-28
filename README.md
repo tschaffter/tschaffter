@@ -85,6 +85,13 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
 </p>
 
+#### Security
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" title="Trivy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="SonarQube" /></a>
+</p>
+
 #### Operating Systems
 
 <p>
