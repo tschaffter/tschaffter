@@ -69,6 +69,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
   <br>
+  <a href="#"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" title="Nx" /></a>
   <a href="#"><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" title="uv" /></a>
 </p>
 
