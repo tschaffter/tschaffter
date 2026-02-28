@@ -38,33 +38,50 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 #### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,spring,nodejs,express,fastapi,graphql,hibernate" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular" title="Angular" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring" title="Spring" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" title="Express" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" /></a>
 </p>
 
 #### Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,githubactions,linux,nginx,gradle,maven,git" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" title="AWS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" title="Maven" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
   <br>
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  
+  <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
 </p>
 
 #### Data & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,kafka,elasticsearch,mongodb" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
   <br>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
 </p>
 
 #### AI Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" title="Claude Code" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" title="GitHub Copilot" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" title="Gemini" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" title="OpenRouter" /></a>
 </p>
 
 ## How I Lead
