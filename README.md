@@ -56,11 +56,20 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=maven" title="Maven" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
+</p>
+
+#### Build Tools & Package Managers
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" title="Maven" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" title="uv" /></a>
 </p>
 
 #### Data & Messaging
@@ -69,6 +78,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
