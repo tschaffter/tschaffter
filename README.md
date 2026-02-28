@@ -81,6 +81,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
 </p>
@@ -141,6 +142,6 @@ Platforms for biomedical challenge discovery and AI model benchmarking, advancin
 
 <div align="center">
 
-*Swiss &bull; PhD from EPFL &bull; Long-distance runner*
+*🇨🇭 Swiss citizen &bull; PhD from EPFL &bull; Long-distance runner*
 
 </div>
