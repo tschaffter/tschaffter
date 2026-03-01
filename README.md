@@ -64,6 +64,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <br>
   <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" title="Caddy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=developmentcontainers&logoColor=white" title="Dev Containers" /></a>
 </p>
 
 #### Build Tools & Package Managers
@@ -96,6 +97,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
 </p>
 
 #### Security
