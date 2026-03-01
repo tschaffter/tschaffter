@@ -59,9 +59,11 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" title="Caddy" /></a>
 </p>
 
 #### Build Tools & Package Managers
@@ -76,6 +78,11 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" title="uv" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" title="Prettier" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" title="Ruff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white" title="stylelint" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/lint--staged-4B32C3?style=for-the-badge&logoColor=white" title="lint-staged" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hadolint-2496ED?style=for-the-badge&logoColor=white" title="Hadolint" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Checkstyle-A42E2B?style=for-the-badge&logoColor=white" title="Checkstyle" /></a>
 </p>
 
 #### Data & Messaging
