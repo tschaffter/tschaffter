@@ -131,6 +131,19 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=windows" title="Windows" /></a>
 </p>
 
+#### Design & Visualization
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=blender" title="Blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps" title="Photoshop" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ai" title="Illustrator" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" title="Affinity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" title="draw.io" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" title="FFmpeg" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" title="OBS Studio" /></a>
+</p>
+
 #### AI Tools
 
 <p>
