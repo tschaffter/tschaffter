@@ -49,6 +49,20 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" title="Gradio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" title="OpenAPI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook" /></a>
+</p>
+
+#### Data & Messaging
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
 </p>
 
 #### Infrastructure & DevOps
@@ -66,9 +80,38 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" title="Caddy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=developmentcontainers&logoColor=white" title="Dev Containers" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
 </p>
 
-#### Build Tools & Package Managers
+#### Testing
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" title="Pytest" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" title="JUnit 5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logoColor=white" title="Testcontainers" /></a>
+</p>
+
+#### Security & Observability
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=grafana" title="Grafana" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sentry" title="Sentry" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" title="Trivy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sonar-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="Sonar" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" title="OpenTelemetry" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Loki" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Tempo" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pyroscope-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Pyroscope" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch_Dashboards-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch Dashboards" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana" /></a>
+</p>
+
+#### Build Tools & Code Quality
 
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
@@ -85,54 +128,6 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/lint--staged-4B32C3?style=for-the-badge&logoColor=white" title="lint-staged" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Hadolint-2496ED?style=for-the-badge&logoColor=white" title="Hadolint" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Checkstyle-A42E2B?style=for-the-badge&logoColor=white" title="Checkstyle" /></a>
-</p>
-
-#### Data & Messaging
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
-</p>
-
-#### Testing
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" title="Pytest" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" title="JUnit 5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logoColor=white" title="Testcontainers" /></a>
-</p>
-
-#### Security
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" title="Trivy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Sonar-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="Sonar" /></a>
-</p>
-
-#### Observability
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=grafana" title="Grafana" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sentry" title="Sentry" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" title="OpenTelemetry" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Loki" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Tempo" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pyroscope-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Pyroscope" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenSearch_Dashboards-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch Dashboards" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana" /></a>
 </p>
 
 #### Development Environment
