@@ -95,7 +95,22 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" title="Trivy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="SonarQube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sonar-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="Sonar" /></a>
+</p>
+
+#### Observability
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=grafana" title="Grafana" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sentry" title="Sentry" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" title="OpenTelemetry" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Loki" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Tempo" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pyroscope-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Pyroscope" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch_Dashboards-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch Dashboards" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana" /></a>
 </p>
 
 #### Operating Systems
