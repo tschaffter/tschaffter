@@ -101,6 +101,18 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
 </p>
 
+#### Testing
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" title="Pytest" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" title="JUnit 5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logoColor=white" title="Testcontainers" /></a>
+</p>
+
 #### Security
 
 <p>
