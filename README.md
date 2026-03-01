@@ -165,15 +165,15 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 
 ## How I Lead
 
-&nbsp;&nbsp;**Cross-Organization Collaboration** &mdash; Led initiatives spanning IBM, NIH, Roche/Genentech, Mayo Clinic, and academic institutions, coordinating 70+ contributors across organizations
+🤝 **Cross-Organization Collaboration** &mdash; Led initiatives spanning IBM, NIH, Roche/Genentech, Mayo Clinic, and academic institutions, coordinating 70+ contributors across organizations
 
-&nbsp;&nbsp;**Team Building & Mentoring** &mdash; Grew and led engineering teams, mentoring engineers from junior to senior across 5+ concurrent products
+🌱 **Team Building & Mentoring** &mdash; Grew and led engineering teams, mentoring engineers from junior to senior across 5+ concurrent products
 
-&nbsp;&nbsp;**Platform Thinking** &mdash; Designed shared developer platforms that standardize tooling, enable reusable components, and accelerate delivery for both engineers and AI agents
+🧩 **Platform Thinking** &mdash; Designed shared developer platforms that standardize tooling, enable reusable components, and accelerate delivery for both engineers and AI agents
 
-&nbsp;&nbsp;**Technical Strategy** &mdash; Drove architectural modernization: monorepo adoption, cloud-native infrastructure, CI/CD automation, and AI-assisted development workflows
+🏗️ **Technical Strategy** &mdash; Drove architectural modernization: monorepo adoption, cloud-native infrastructure, CI/CD automation, and AI-assisted development workflows
 
-&nbsp;&nbsp;**Stakeholder Communication** &mdash; Bridged researchers, engineers, clinicians, and executives to align on goals and ship impactful products
+🗣️ **Stakeholder Communication** &mdash; Bridged researchers, engineers, designers, data governance, clinicians, and executives to align on goals and ship impactful products
 
 ## Featured Work
 
