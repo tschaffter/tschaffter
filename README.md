@@ -135,12 +135,15 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana" /></a>
 </p>
 
-#### Operating Systems
+#### Development Environment
 
 <p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=apple" title="macOS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=windows" title="Windows" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" title="PlatformIO" /></a>
 </p>
 
 #### Design & Visualization
