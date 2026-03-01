@@ -48,6 +48,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" title="Gradio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" title="OpenAPI" /></a>
 </p>
 
 #### Infrastructure & DevOps
