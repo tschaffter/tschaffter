@@ -15,8 +15,9 @@ I build platforms and frameworks that accelerate delivery, improve reliability, 
 ---
 
 Software engineering leader with 10+ years building developer platforms, leading cross-organization
-initiatives, and shipping products at the intersection of software and biomedical research. Based in
-Switzerland, previously 10 years in the US working with IBM, NIH, Roche/Genentech, and Mayo Clinic.
+initiatives, and shipping products at the intersection of software and biomedical research. Led teams
+of up to **70+ contributors** across IBM, NIH, Roche/Genentech, and Mayo Clinic. Based in
+Switzerland, previously 10 years in the US.
 
 Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or **Principal Software Engineer**.
 
@@ -128,8 +129,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" /></a>
   <a href="#"><img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white" title="stylelint" /></a>
   <a href="#"><img src="https://img.shields.io/badge/lint--staged-4B32C3?style=for-the-badge&logoColor=white" title="lint-staged" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hadolint-2496ED?style=for-the-badge&logoColor=white" title="Hadolint" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Checkstyle-A42E2B?style=for-the-badge&logoColor=white" title="Checkstyle" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Checkstyle-A42E2B?style=for-the-badge&logoColor=white" title="Checkstyle" /></a>
 </p>
 
 #### Development Environment
@@ -139,21 +139,6 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=apple" title="macOS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=windows" title="Windows" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" title="PlatformIO" /></a>
-</p>
-
-#### Design & Visualization
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=blender" title="Blender" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ps" title="Photoshop" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ai" title="Illustrator" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" title="Affinity" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" title="draw.io" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" title="FFmpeg" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" title="OBS Studio" /></a>
 </p>
 
 #### AI Tools
@@ -189,7 +174,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <img src="assets/bioarena-quest.png" alt="BioArena Community Quest — Minecraft arena build and story chapters" width="600" />
 </p>
 
-Crowdsourced benchmarking platform where community members evaluate AI models on biomedical topics through head-to-head battles. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
+Crowdsourced benchmarking platform where community members evaluate AI models on biomedical topics through head-to-head battles. **28 models**, **248 battles**, **74 users** and growing. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
 
 `Gradio` `Spring Boot` `FastAPI` `OpenAPI` `Docker` `AWS` `OpenRouter`
 
@@ -201,7 +186,7 @@ Monorepo designed to improve developer experience and accelerate the development
 
 ### Digital Mammography DREAM Challenge
 
-Architected secure cloud infrastructure for a **$1M biomedical AI/ML competition** with 1,000+ participants. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795) with 70+ co-authors.
+Led a **$1M biomedical AI/ML competition** with 1,000+ participants, architecting secure cloud infrastructure and coordinating contributions from 70+ co-authors. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795).
 
 ---
 
