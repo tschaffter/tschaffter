@@ -10,15 +10,14 @@ I build platforms and frameworks that accelerate delivery, improve reliability, 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.schaffter@proton.me)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C88AkzIAAAAJ&hl=en&oi=ao)
 
-Email: `thomas.schaffter@proton.me`
-
 </div>
 
 ---
 
 Software engineering leader with 10+ years building developer platforms, leading cross-organization
-initiatives, and shipping products at the intersection of software and biomedical research. Based in
-Switzerland, previously 10 years in the US working with IBM, NIH, Roche/Genentech, and Mayo Clinic.
+initiatives, and shipping products at the intersection of software and biomedical research. **MSc and
+PhD from EPFL.** Led teams of up to **70+ contributors** across IBM, NIH, Roche/Genentech, and Mayo
+Clinic. Based in Switzerland, previously 10 years in the US.
 
 Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or **Principal Software Engineer**.
 
@@ -27,59 +26,172 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 #### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,r,cpp" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" title="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=r" title="R" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
 </p>
 
 #### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,spring,nodejs,express,graphql,hibernate" />
-</p>
-
-#### Infrastructure & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,jenkins,linux,nginx,gradle,maven,git" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular" title="Angular" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring" title="Spring" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" title="Express" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" title="Gradio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" title="OpenAPI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" title="Storybook" /></a>
 </p>
 
 #### Data & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,kafka,elasticsearch,mongodb" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" title="Kafka" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch" /></a>
+</p>
+
+#### Infrastructure & DevOps
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" title="AWS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS CDK" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" title="Caddy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=developmentcontainers&logoColor=white" title="Dev Containers" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" title="Keycloak" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white" title="OpenID Connect" /></a>
+</p>
+
+#### Testing
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" title="Pytest" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" title="JUnit 5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" title="Playwright" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logoColor=white" title="Testcontainers" /></a>
+</p>
+
+#### Security & Observability
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=grafana" title="Grafana" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sentry" title="Sentry" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" title="Trivy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sonar-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" title="Sonar" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" title="OpenTelemetry" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Loki" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Tempo" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pyroscope-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Pyroscope" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch_Dashboards-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" title="OpenSearch Dashboards" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana" /></a>
+</p>
+
+#### Build Tools & Code Quality
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" title="Maven" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" title="Nx" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" title="uv" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" title="Prettier" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" title="Ruff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white" title="stylelint" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/lint--staged-4B32C3?style=for-the-badge&logoColor=white" title="lint-staged" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Checkstyle-A42E2B?style=for-the-badge&logoColor=white" title="Checkstyle" /></a>
+</p>
+
+#### Development Environment
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=apple" title="macOS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=windows" title="Windows" /></a>
+</p>
+
+#### AI Tools
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" title="Claude Code" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" title="GitHub Copilot" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" title="Gemini" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" title="OpenRouter" /></a>
 </p>
 
 ## How I Lead
 
-&nbsp;&nbsp;**Cross-Organization Collaboration** &mdash; Led initiatives spanning IBM, NIH, Roche/Genentech, Mayo Clinic, and academic institutions, coordinating 70+ contributors across organizations
+🤝 **Cross-Organization Collaboration** &mdash; Led initiatives spanning IBM, NIH, Roche/Genentech, Mayo Clinic, and academic institutions, coordinating 70+ contributors across organizations
 
-&nbsp;&nbsp;**Team Building & Mentoring** &mdash; Grew and led engineering teams, mentoring engineers from junior to senior across 5+ concurrent products
+🌱 **Team Building & Mentoring** &mdash; Grew and led engineering teams, mentoring engineers from junior to senior across 5+ concurrent products
 
-&nbsp;&nbsp;**Platform Thinking** &mdash; Designed shared developer platforms that standardize tooling, enable reusable components, and accelerate delivery for both engineers and AI agents
+🧩 **Platform Thinking** &mdash; Designed shared developer platforms that standardize tooling, enable reusable components, and accelerate delivery for both engineers and AI agents
 
-&nbsp;&nbsp;**Technical Strategy** &mdash; Drove architectural modernization: monorepo adoption, cloud-native infrastructure, CI/CD automation, and AI-assisted development workflows
+🏗️ **Technical Strategy** &mdash; Drove architectural modernization: monorepo adoption, cloud-native infrastructure, CI/CD automation, and AI-assisted development workflows
 
-&nbsp;&nbsp;**Stakeholder Communication** &mdash; Bridged researchers, engineers, clinicians, and executives to align on goals and ship impactful products
+🗣️ **Stakeholder Communication** &mdash; Bridged researchers, engineers, designers, data governance, clinicians, and executives to align on goals and ship impactful products
 
 ## Featured Work
 
+### [BioArena](https://bioarena.io) &mdash; Gamified AI Benchmarking
+
+<!-- Screenshots: see instructions below -->
+<p align="center">
+  <img src="assets/bioarena-home.png" alt="BioArena home page — logo, tagline, and community stats" width="600" />
+</p>
+<p align="center">
+  <img src="assets/bioarena-quest.png" alt="BioArena Community Quest — Minecraft arena build and story chapters" width="600" />
+</p>
+
+Crowdsourced benchmarking platform where community members evaluate AI models on biomedical topics through head-to-head battles. **28 models**, **248 battles**, **74 users** and growing. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
+
+`Gradio` `Spring Boot` `FastAPI` `OpenAPI` `Docker` `AWS` `OpenRouter`
+
 ### [Sage Monorepo](https://github.com/Sage-Bionetworks/sage-monorepo) &mdash; Developer Platform
 
-Internal developer platform powering **5+ products** including BioArena, OpenChallenges, Agora, and MODEL-AD. Shared infrastructure, reusable components, standardized tooling &mdash; optimized for both human engineers and AI-assisted development.
+Monorepo designed to improve developer experience and accelerate the development of full-stack applications. Powers **5+ products** including BioArena, Agora, and MODEL-AD. Adopted by **7 engineers across 3 teams** who joined the initiative and chose to build their products on the platform. Shared infrastructure, reusable components, and standardized tooling.
 
-`Nx` `Angular` `Spring Boot` `Python` `Docker` `GitHub Actions` `AWS ECS`
+`Nx` `Angular` `Spring Boot` `Java` `Node.js` `Python` `Docker` `GitHub Actions` `AWS CDK` `Dev Containers`
 
 ### Digital Mammography DREAM Challenge
 
-Architected secure cloud infrastructure for a **$1M biomedical AI competition** with 1,000+ participants. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795) with 70+ co-authors.
-
-### OpenChallenges & BioArena
-
-Platforms for biomedical challenge discovery and AI model benchmarking, advancing open science and collaborative research.
+Led a **$1M biomedical AI/ML competition** with 1,000+ participants, architecting secure cloud infrastructure and coordinating contributions from 70+ co-authors. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795).
 
 ---
 
 <div align="center">
 
-*Swiss &bull; PhD from EPFL &bull; Long-distance runner*
+*🇨🇭 Swiss citizen &bull; PhD from EPFL &bull; Long-distance runner*
 
 </div>
