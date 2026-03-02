@@ -179,19 +179,29 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 
 ## Featured Work
 
+### BioArena &mdash; Gamified AI Benchmarking
+
+<!-- Screenshots: see instructions below -->
+<p align="center">
+  <img src="assets/bioarena-home.png" alt="BioArena home page — logo, tagline, and community stats" width="600" />
+</p>
+<p align="center">
+  <img src="assets/bioarena-quest.png" alt="BioArena Community Quest — Minecraft arena build and story chapters" width="600" />
+</p>
+
+AI model benchmarking platform where community members pit models against each other in head-to-head battles. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
+
+`Angular` `Spring Boot` `FastAPI` `Gradio` `OpenAPI` `Docker`
+
 ### [Sage Monorepo](https://github.com/Sage-Bionetworks/sage-monorepo) &mdash; Developer Platform
 
-Internal developer platform powering **5+ products** including BioArena, OpenChallenges, Agora, and MODEL-AD. Shared infrastructure, reusable components, standardized tooling &mdash; optimized for both human engineers and AI-assisted development.
+Internal developer platform powering **5+ products** including BioArena, Agora, and MODEL-AD. Shared infrastructure, reusable components, standardized tooling &mdash; optimized for both human engineers and AI-assisted development.
 
 `Nx` `Angular` `Spring Boot` `Python` `Docker` `GitHub Actions` `AWS ECS`
 
 ### Digital Mammography DREAM Challenge
 
-Architected secure cloud infrastructure for a **$1M biomedical AI competition** with 1,000+ participants. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795) with 70+ co-authors.
-
-### OpenChallenges & BioArena
-
-Platforms for biomedical challenge discovery and AI model benchmarking, advancing open science and collaborative research.
+Architected secure cloud infrastructure for a **$1M biomedical AI/ML competition** with 1,000+ participants. Multiple winning approaches contributed to **FDA-approved** diagnostic tools. First author of the resulting [JAMA Network Open publication](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2761795) with 70+ co-authors.
 
 ---
 
