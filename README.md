@@ -15,9 +15,9 @@ I build platforms and frameworks that accelerate delivery, improve reliability, 
 ---
 
 Software engineering leader with 10+ years building developer platforms, leading cross-organization
-initiatives, and shipping products at the intersection of software and biomedical research. Led teams
-of up to **70+ contributors** across IBM, NIH, Roche/Genentech, and Mayo Clinic. Based in
-Switzerland, previously 10 years in the US.
+initiatives, and shipping products at the intersection of software and biomedical research. **MSc and
+PhD from EPFL.** Led teams of up to **70+ contributors** across IBM, NIH, Roche/Genentech, and Mayo
+Clinic. Based in Switzerland, previously 10 years in the US.
 
 Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or **Principal Software Engineer**.
 
