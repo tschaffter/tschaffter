@@ -191,13 +191,13 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 
 Crowdsourced benchmarking platform where community members evaluate AI models on biomedical topics through head-to-head battles. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
 
-`Gradio` `Spring Boot` `FastAPI` `OpenAPI` `Docker` `AWS`
+`Gradio` `Spring Boot` `FastAPI` `OpenAPI` `Docker` `AWS` `OpenRouter`
 
 ### [Sage Monorepo](https://github.com/Sage-Bionetworks/sage-monorepo) &mdash; Developer Platform
 
-Internal developer platform powering **5+ products** including BioArena, Agora, and MODEL-AD. Shared infrastructure, reusable components, standardized tooling &mdash; optimized for both human engineers and AI-assisted development.
+Monorepo designed to improve developer experience and accelerate the development of full-stack applications. Powers **5+ products** including BioArena, Agora, and MODEL-AD. Adopted by **7 engineers across 3 teams** who joined the initiative and chose to build their products on the platform. Shared infrastructure, reusable components, and standardized tooling.
 
-`Nx` `Angular` `Spring Boot` `Python` `Docker` `GitHub Actions` `AWS ECS`
+`Nx` `Angular` `Spring Boot` `Java` `Node.js` `Python` `Docker` `GitHub Actions` `AWS CDK` `Dev Containers`
 
 ### Digital Mammography DREAM Challenge
 
