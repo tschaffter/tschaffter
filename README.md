@@ -81,6 +81,8 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <a href="#"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" title="Caddy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=developmentcontainers&logoColor=white" title="Dev Containers" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" title="Flyway" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" title="Keycloak" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white" title="OpenID Connect" /></a>
 </p>
 
 #### Testing
