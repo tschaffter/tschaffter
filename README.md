@@ -179,7 +179,7 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
 
 ## Featured Work
 
-### BioArena &mdash; Gamified AI Benchmarking
+### [BioArena](https://bioarena.io) &mdash; Gamified AI Benchmarking
 
 <!-- Screenshots: see instructions below -->
 <p align="center">
@@ -189,9 +189,9 @@ Looking for my next role as **Software Engineering Manager**, **Tech Lead**, or 
   <img src="assets/bioarena-quest.png" alt="BioArena Community Quest — Minecraft arena build and story chapters" width="600" />
 </p>
 
-AI model benchmarking platform where community members pit models against each other in head-to-head battles. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
+Crowdsourced benchmarking platform where community members evaluate AI models on biomedical topics through head-to-head battles. Designed the logo and brand identity. Features a **Community Quest** &mdash; a creative gamification experiment where each battle contributes a block to a medieval arena being built in Minecraft, with weekly story chapters driving engagement. An exploration in motivating crowdsourced participation through narrative and play.
 
-`Angular` `Spring Boot` `FastAPI` `Gradio` `OpenAPI` `Docker`
+`Gradio` `Spring Boot` `FastAPI` `OpenAPI` `Docker` `AWS`
 
 ### [Sage Monorepo](https://github.com/Sage-Bionetworks/sage-monorepo) &mdash; Developer Platform
 
